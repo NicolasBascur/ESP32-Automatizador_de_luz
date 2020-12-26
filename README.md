@@ -1,2 +1,2 @@
-# ESP32-Automatizador_de_luz
+# ESP32 - Automatizador de luz
  El ESP32 lleva un sistema de sensor táctil, cuando un usuario toca la superficie se activa la variación de capacitancia y se genera una señal binaria para indicar si el toque es válido, como tambien el usuario se puede conectar a la red wifi y prenderlas con la app,  trabajo de programación mediante Arduino IDE con el dicho ESP32 conectado a la Red, para que este puede realizar acciones como encender luces del hogar, este cuenta con el ESP32 para hacerlo un dispositivo más completo para usos útiles de hogar, etc
