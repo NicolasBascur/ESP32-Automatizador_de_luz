@@ -81,7 +81,7 @@ void loop()
             client.println(".button { background-color: #195B6A; border: none; color: white; padding: 16px 40px;");
             client.println("text-decoration: none; font-size: 30px; margin: 2px; cursor: pointer;}");
             client.println(".button2 {background-color: #77878A;}</style></head>");
-            client.println("<body><h1>ESP32 test</h1>");                                                       // Encabezado de la página web 
+            client.println("<body><h1>ESP32 - Automatizador de Luz </h1>");                                                       // Encabezado de la página web 
             client.println("<p>Luz esta " + output5State + "</p>");                                                  // Muestra el estado actual y los botones ON / OFF para GPIO 5      
             if (output5State=="off")                                                                           // Si 'output5State' está apagado, muestra el botón ON
             {  
